@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Safe Web for kids - Sandbox browser for schools, kiosks and family protection"
+title:       "Safe Spot for kids - Personal check in"
 keywords:    "safe, web, for, kids, control, content, restricted, filter, porn, nofap, blocker, child, limited, adult, access, best, app, mums, ios, whitelist"
 description: "Safe Web is a web browser for iPhone and iPad devices. Don't worry about what your children browse as they will only see what you let them see. Safe Web is a whitelist based Internet browser that only allows to navigate to some predefined websites or domains of your choose. Apart from that, Safe Web creates a sandbox environment where the user can't leave the bookmarked websites domains."
 favicon:     "img/favicon.ico"
@@ -31,7 +31,7 @@ colors:
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#49a7e9'
-  green:     '#9bcf2f'
+  green:     '#1B6C25'
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
