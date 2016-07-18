@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Safe Spot for kids - Personal check in"
-keywords:    "safe, web, for, kids, control, content, restricted, filter, porn, nofap, blocker, child, limited, adult, access, best, app, mums, ios, whitelist"
-description: "Safe Web is a web browser for iPhone and iPad devices. Don't worry about what your children browse as they will only see what you let them see. Safe Web is a whitelist based Internet browser that only allows to navigate to some predefined websites or domains of your choose. Apart from that, Safe Web creates a sandbox environment where the user can't leave the bookmarked websites domains."
+title:       "Safe Spot for kids - Location check in for family protection"
+keywords:    "teen, children, control, supervised, monitoring, away, hang, out, where, teenager, wife, parents, cheat, cheating, spare, time, adultery, audit, child, situation, place, position, checkin, register, mum, dad, monitor, nanny, sign"
+description: "Safe Spot is a personal check in app for kids. Safe Spot lets your children check in and send a message once they arrive to any of the safe locations bookmarked by you. This way you will always be sure that they are where they are supposed to be. "
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-25289053-8 ## put YOUR key here to enable tracking! (blank to disable)
@@ -24,6 +24,22 @@ appstore_link: "https://itunes.apple.com/app/safe-spot-personal-check-in/id69794
 
 url: https://safespot.bobgoo.com
 enforce_ssl: safespot.bobgoo.com
+
+twitter:
+    username: "@SafeSpotApp"
+    
+defaults:
+  -
+    scope:
+        path: ""
+    values:
+        image:
+            #path: /img/Icon-Rounded-256.png
+            twitter: /img/FBBanner.png
+            facebook: /img/FBBanner.png
+            height: 630
+            width: 1200    
+    
 
 ### template colors, used site-wide via css ###
 colors:
