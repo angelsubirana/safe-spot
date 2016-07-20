@@ -39,7 +39,6 @@ defaults:
             facebook: /img/FBBanner.png
             height: 630
             width: 1200    
-    
 
 ### template colors, used site-wide via css ###
 colors:
