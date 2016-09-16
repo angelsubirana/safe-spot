@@ -534,10 +534,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-add { border-color: #8E2223; }
-  #add { background-color: #8E2223 !important; color: #f8f8f8; }
+  nav .p-add { border-color: #1B6C25; }
+  #add { background-color: #1B6C25 !important; color: #f8f8f8; }
   #add a { color: #f8f8f8; }
-  #add .sectiondivider { color: #8E2223; }
+  #add .sectiondivider { color: #1B6C25; }
 
   
   
@@ -739,7 +739,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 .section:first-of-type {
-    padding-top: 140px;
+    padding-top: 60px;
 }
 
 
