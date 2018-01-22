@@ -1,6 +1,5 @@
 User-Agent: *
 Disallow: 
 Disallow: /privacy*
-Disallow: /sitemap*
 
 Sitemap: https://safespot.bobgoo.com/sitemap.xml
